@@ -1,0 +1,9 @@
+Name: Instant Noodles
+
+Archives: fragment.glsl, vertex.glsl
+
+Tags: lighting_shader, per pixel lighting
+
+Description: Per pixel ligthing in a model or can with a texture
+
+ 

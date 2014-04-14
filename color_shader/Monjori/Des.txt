@@ -1,0 +1,15 @@
+Name: Monjori
+
+Archives: fragment.glsl
+
+Tags: color_shader, Monjori, Plane Deformation, GLSL, Effect 
+
+Description: 
+ 
+ * 
+ * GLSL version of the 1k intro Monjori from the demoscene 
+ * (http://www.pouet.net/prod.php?which=52761)
+ * Ported from the webGL version available in ShaderToy:
+ * http://www.iquilezles.org/apps/shadertoy/
+ * (Look for Monjori under the Plane Deformations Presets) 
+ */
