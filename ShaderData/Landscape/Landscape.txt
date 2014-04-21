@@ -2,7 +2,7 @@ Name: Landscape
 
 Archives: fragment.glsl
 
-Tags: color_shader, landscape, GLSL, Effect, generated model 
+Tags: color shader, landscape, GLSL, Effect, generated model 
 
 Description: Landscape
 

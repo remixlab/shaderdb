@@ -2,6 +2,6 @@ Name: Road
 
 Archives: fragment.glsl
 
-Tags: color_Shader, Road, Road movement
+Tags: color shader, Road, Road movement
 
 Description: The shader shows a road in movement

@@ -2,7 +2,7 @@ Name: Toon
 
 Archives: fragment.glsl
 
-Tags: lighting_shader, toon effect, per pixel lighting
+Tags: lighting shader, toon effect, per pixel lighting
 
 Description: Toon
 

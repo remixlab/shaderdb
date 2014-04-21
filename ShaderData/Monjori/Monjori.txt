@@ -2,7 +2,7 @@ Name: Monjori
 
 Archives: fragment.glsl
 
-Tags: color_shader, Monjori, Plane Deformation, GLSL, Effect 
+Tags: color shader, Monjori, Plane Deformation, GLSL, Effect 
 
 Description: 
  

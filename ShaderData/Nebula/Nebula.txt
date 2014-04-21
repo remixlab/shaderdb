@@ -2,6 +2,6 @@ Name: Nebula
 
 Archives: fragment.glsl
 
-Tags: color_shader, Nebula, Effect  
+Tags: color shader, Nebula, Effect  
 
 Description: The shader creates a Nebula effect that changes with the time. 
