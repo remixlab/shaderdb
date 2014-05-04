@@ -1,6 +1,8 @@
 // Texture from Jason Liebig's FLICKR collection of vintage labels and wrappers:
 // http://www.flickr.com/photos/jasonliebigstuff/3739263136/in/photostream/
 
+//Pepepito
+
 PImage label;
 PShape can;
 float angle;
