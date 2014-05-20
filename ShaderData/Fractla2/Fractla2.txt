@@ -1,0 +1,10 @@
+Name:
+Fractla2
+Tags:
+shader, fractal2, fractalito, fractalote, fractil, etc
+Description:
+fractal
+Autor:
+anfgomezmo
+Email:
+anfgomezmo@gmail.com
