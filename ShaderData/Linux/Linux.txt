@@ -1,0 +1,10 @@
+Name:
+Linux
+Tags:
+shader, Linux
+Description:
+Test from Linux, Ubuntu
+Autor:
+anfgomezmo
+Email:
+anfgomezmo@gmail.com
