@@ -3,8 +3,8 @@ Linux
 Tags:
 shader, Linux
 Description:
-Linux 
-Autor:
 Linux
+Autor:
+anfgomezmo
 Email:
 add your email (optional)
