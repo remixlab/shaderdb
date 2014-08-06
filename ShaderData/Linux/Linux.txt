@@ -3,8 +3,8 @@ Linux
 Tags:
 shader, Linux
 Description:
-Test from Linux, Ubuntu
+Linux 
 Autor:
-anfgomezmo
+Linux
 Email:
-anfgomezmo@gmail.com
+add your email (optional)
