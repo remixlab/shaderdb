@@ -1,0 +1,19 @@
+Name:
+Sphere Tessellation
+Tags:
+shader, Tessellation shader
+Description:
+Tessellation shaders
+Adapted from Philip Rideout's code in:
+http://prideout.net/blog/?p=48
+ 
+More about tessellation shaders:
+http://prideout.net/blog/?p=49
+
+Use left/right cursor keys to control outer tessellation level
+Use up/down cursor keys to control inner tessellation level
+
+Autor:
+anfgomezmo
+Email:
+anfgomezmo@gmail.com

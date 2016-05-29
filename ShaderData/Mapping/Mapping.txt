@@ -1,0 +1,12 @@
+Name:
+Mapping
+Tags:
+shader, mapping, normal mapping, bump mapping
+Description:
+The shader creates a bump mapping effect over a rock texture. 
+
+Click the left mouse button to see the effect with a different lighting source. Move the mouse to the left or right to change the light intensity       
+Autor:
+anfgomezmo
+Email:
+anfgomezmo@gmail.com

@@ -1,0 +1,12 @@
+Name:
+Mesh Tweening
+Tags:
+shader, Mesh, Tweening, custom vertex
+Description:
+Use of custom vertex attributes.
+Inspired by 
+http://pyopengl.sourceforge.net/context/tutorials/shader_4.html
+Autor:
+anfgomezmo
+Email:
+anfgomezmo@gmail.com

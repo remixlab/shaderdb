@@ -1,0 +1,13 @@
+Name:
+Edges
+Tags:
+shader, Edges, edge color, texture shader, fragment
+Description:
+Texture from Jason Liebig's FLICKR collection of vintage labels and wrappers:
+http://www.flickr.com/photos/jasonliebigstuff/3739263136/in/photostream/
+
+Edge shader detector over a textured model
+Autor:
+anfgomezmo
+Email:
+anfgomezmo@gmail.com

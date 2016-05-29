@@ -1,0 +1,10 @@
+Name:
+Emboss
+Tags:
+shader, Emboss, emboss filter, emboss effect
+Description:
+The shader shows a emboss effect over a textured object
+Autor:
+anfgomezmo
+Email:
+anfgomezmo@gmail.com

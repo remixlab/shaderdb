@@ -1,0 +1,11 @@
+Name:
+SphereMoon
+Tags:
+shader, bump mapping, mapping, normal mapping, lighting, textured model
+Description:
+Bump mapping shader applied into a textured model. 
+Use the keys Z and A to zoom, press the left mouse button to use another lighting source and move the mose from right to left to change the light intensity.
+Autor:
+anfgomezmo
+Email:
+anfgomezmo@gmail.com

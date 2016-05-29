@@ -1,0 +1,14 @@
+Name: Landscape
+
+Archives: fragment.glsl
+
+Tags: color shader, landscape, GLSL, Effect, generated model 
+
+Description: Landscape
+
+* Elevated
+ * https://www.shadertoy.com/view/MdX3Rr by inigo quilez
+ * Created by inigo quilez - iq/2013
+ * License Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+ * Processing port by Raphaël de Courville.
+ 

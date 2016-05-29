@@ -1,0 +1,10 @@
+Name:
+Blur
+Tags:
+shader, Blur, dim effect, unclear effect, cloudy effect, filter
+Description:
+The shader shows a simple blue effect in a basic model.
+Autor:
+anfgomezmo
+Email:
+anfgomezmo@gmail.com

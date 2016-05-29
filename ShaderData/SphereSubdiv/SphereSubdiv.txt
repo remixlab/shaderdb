@@ -1,0 +1,14 @@
+Name:
+SphereSubdiv
+Tags:
+shader, Sphere subdivision, geometry shader
+Description:
+Sphere subdivision using the geometry shader.
+However, the GS shouldn't be used to perform tessellation because it process the output primitives sequentially w/out parallelization.
+
+Useful applications of the GS recalculate normals after vertex displacement primitive distortion (e.g.: explode geometry along the normals) normal and edge rendering geometry culling
+ http://renderingwonders.wordpress.com/2011/02/07/chapter-11-%E2%80%93-advanced-shader-usage-geometry-shaders/
+Autor:
+anfgomezmo
+Email:
+anfgomezmo@gmail.com
