@@ -1,8 +1,0 @@
-Name: Fish Eye
-
-Archives: fragment.glsl
-
-Tags: Texture shader, Fish Eye, fish eye projection, GLSL, Effect 
-
-Description: Fish eye effect that can be used in a camera, image, projection
- 

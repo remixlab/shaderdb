@@ -1,7 +1,0 @@
-Name: Negative
-
-Archives: fragment.glsl
-
-Tags: Texture shader, Filter, Negative, Post Processing Filter
-
-Description: The shader creates a negative filter in the rgb channels of a texture or image. 

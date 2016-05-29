@@ -1,7 +1,0 @@
-Name: Edge Detector
-
-Archives: fragment.glsl
-
-Tags: Texture shader, Filter, Edge detector, Post Processing Filter, 
-
-Description: The shader creates an edege detector filter in the rgb channels of a texture or image. 

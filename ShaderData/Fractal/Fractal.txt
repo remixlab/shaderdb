@@ -1,8 +1,0 @@
-Name: Fractal
-
-Archives: fragment.glsl
-
-Tags: Color shader, Fractal effect, hyperbolic space
-
-Description: Fractal effect generated in the fragment shader
- 
